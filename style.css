@@ -1,17 +1,9 @@
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 body{
     font-family: 'Press Start 2P', cursive;
     background-position:center right;
     background-repeat: no-repeat;
     background-image: url("./img/image1.png");
 }
-
 .scream-logo{
     display: block;
     margin-right: auto;
@@ -21,7 +13,6 @@ body{
     height: 200px;
     width: 200px;
 }
-
 .container{
     height: 10vh;
     display: flex;
@@ -37,12 +28,10 @@ body{
     padding: 0.5rem;
     margin-top: 2px;
 }
-
 .typed-text{
     font-weight: normal;
     color: rgb(216, 213, 17);
 }
-
 .cursor{
     display: inline-block;
     width: 3px;
