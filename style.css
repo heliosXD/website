@@ -4,15 +4,6 @@ body{
     background-repeat: no-repeat;
     background-image: url("./img/image1.png");
 }
-.scream-logo{
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top: 10%;
-    border-radius: 100%;
-    height: 200px;
-    width: 200px;
-}
 .container{
     height: 10vh;
     display: flex;
